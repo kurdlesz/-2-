@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student card FORM</title>
+    <style>
+        div {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Student card FORM</h1>
+    </header>
+
+    <main>
+        <form action="." method="post" enctype="multipart/form-data">
+            
+            <!-- Section 1: Personal Information -->
+            <section>
+                <h2>Personal Information</h2>
+                <fieldset>
+                    <legend>Provide your details</legend>
+
+                    <div>
+                        <label for="fullname">Full Name:</label>
+                        <input type="text" id="fullname" name="fullname" placeholder="Enter your full name" required>
+                    </div>
+
+                    <div>
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                    </div>
+
+                    <div>
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" name="password" placeholder="Enter a password" required>
+                    </div>
+
+                    <div>
+                        <label for="age">Age:</label>
+                        <input type="number" id="age" name="age" min="0" max="120" required>
+                    </div>
+
+                    <div>
+                        <label for="date">Date of Birth:</label>
+                        <input type="date" id="date" name="date">
+                    </div>
+
+                    <div>
+                        <label>Gender:</label><br>
+                        <input type="radio" id="male" name="gender" value="male">
+                        <label for="male">Male</label><br>
+                        <input type="radio" id="female" name="gender" value="female">
+                        <label for="female">Female</label><br>
+                        <input type="radio" id="other" name="gender" value="other">
+                        <label for="other">Other</label>
+                    </div>
+
+                    <div>
+                        <label>Languages Known:</label><br>
+                        <input type="checkbox" id="english" name="languages" value="english">
+                        <label for="english">English</label><br>
+                        <input type="checkbox" id="spanish" name="languages" value="spanish">
+                        <label for="spanish">Spanish</label><br>
+                        <input type="checkbox" id="french" name="languages" value="french">
+                        <label for="french">French</label>
+                    </div>
+
+                    <div>
+                        <label for="country">Country:</label>
+                        <select id="country" name="country" required>
+                            <option value="">Select your country</option>
+                            <option value="ukraine">Ukraine</option>
+                            <option value="usa">USA</option>
+                            <option value="canada">Canada</option>
+                            <option value="uk">United Kingdom</option>
+                        </select>
+                    </div>
+                </fieldset>
+            </section>
+
+            <!-- Section 2: College Subjects -->
+            <section>
+                <h2>College Subjects</h2>
+                <fieldset>
+                    <legend>Select your subjects</legend>
+
+                    <div>
+                        <label for="subjects">Choose subjects:</label><br>
+                        <select multiple id="subjects" name="subjects">
+                            <option value="math">Mathematics</option>
+                            <option value="cs">Computer Science</option>
+                            <option value="physics">Physics</option>
+                            <option value="chemistry">Chemistry</option>
+                            <option value="english">English</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label for="range">Rate your interest in Computer Science:</label>
+                        <input type="range" id="range" name="range">
+                    </div>
+                </fieldset>
+            </section>
+
+            <!-- Section 3: Skills Assessment -->
+            <section>
+                <h2>Skills Assessment</h2>
+                <fieldset>
+                    <legend>Assess your skills</legend>
+
+                    <div>
+                        <label for="textarea">Describe your skills:</label><br>
+                        <textarea id="textarea" name="textarea" placeholder="List your skills here..."></textarea>
+                    </div>
+
+                    <div>
+                        <label for="file">Upload your resume:</label>
+                        <input type="file" id="file" name="file">
+                    </div>
+
+                    <div>
+                        <label for="color">Pick your favorite color:</label>
+                        <input type="color" id="color" name="color">
+                    </div>
+
+                    <div>
+                        <label for="time">Preferred study time:</label>
+                        <input type="time" id="time" name="time">
+                    </div>
+
+                    <div>
+                        <input type="submit" value="Submit Survey">
+                    </div>
+                </fieldset>
+            </section>
+
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; Student card by Student. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
