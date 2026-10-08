@@ -1,0 +1,74 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f4f5f7;
+    color: #333333;
+    line-height: 1.5;
+}
+
+#hero_container {
+    display: block;
+    position: relative;
+    width: 100%;
+    min-height: 300px;
+    background-color: #003366; /* Фірмовий темно-синій колір ЛП */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 40px 20px;
+    margin-bottom: 25px;
+    border-bottom: 4px solid #f2a900; /* Жовтий акцентний бордюр */
+}
+
+#hero_container .region-hero {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#hero_container h1,
+#hero_container .hero-title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 15px;
+    line-height: 1.2;
+}
+
+#hero_container p,
+#hero_container .hero-text {
+    font-size: 18px;
+    font-weight: 400;
+    color: #e6e6e6;
+    max-width: 800px;
+    margin-bottom: 20px;
+}
+
+#hero_container a {
+    display: inline-block;
+    padding: 10px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #003366;
+    background-color: #f2a900;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+#hero_container a:hover {
+    background-color: #d99600;
+    color: #002244;
+}
