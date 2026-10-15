@@ -2,7 +2,7 @@
 <!-- saved from url=(0016)https://lpnu.ua/ -->
 <html lang="uk" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="js fontawesome-i2svg-active fontawesome-i2svg-complete"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-<script type="text/javascript" async="" src="./background_files/js"></script><script async="" src="./background_files/analytics.js.загружено"></script><script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-24246145-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script type="text/javascript" async="" src="./bg_files/js"></script><script async="" src="./bg_files/analytics.js.загружено"></script><script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-24246145-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
 <style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="shortlink" href="https://lpnu.ua/">
 <link rel="canonical" href="https://lpnu.ua/">
 <link rel="image_src" href="https://lpnu.ua/sites/default/files/default_images/Lviv-Polytechnic_default.jpg">
@@ -12,22 +12,22 @@
 <meta name="MobileOptimized" content="width">
 <meta name="HandheldFriendly" content="true">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="./background_files/css" media="all">
+<link rel="stylesheet" href="./bg_files/css" media="all">
 <link rel="shortcut icon" href="https://lpnu.ua/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="alternate" type="application/rss+xml" title="" href="https://lpnu.ua/rss.xml">
 
     <title>| Національний університет «Львівська політехніка»</title>
-    <link rel="stylesheet" media="all" href="./background_files/css_zv5LaRpL7MMKO11ffxh8T6GI4SIQlw-k63nww_XO47g.css">
-<link rel="stylesheet" media="all" href="./background_files/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous">
-<link rel="stylesheet" media="all" href="./background_files/drupal-bootstrap.min.css" integrity="sha512-tGFFYdzcicBwsd5EPO92iUIytu9UkQR3tLMbORL9sfi/WswiHkA1O3ri9yHW+5dXk18Rd+pluMeDBrPKSwNCvw==" crossorigin="anonymous">
-<link rel="stylesheet" media="all" href="./background_files/css_yE5QwgZvyhRicEoVbX2MmW6dMN062W8zEzhDjtfclYk.css">
+    <link rel="stylesheet" media="all" href="./bg_files/css_zv5LaRpL7MMKO11ffxh8T6GI4SIQlw-k63nww_XO47g.css">
+<link rel="stylesheet" media="all" href="./bg_files/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./bg_files/drupal-bootstrap.min.css" integrity="sha512-tGFFYdzcicBwsd5EPO92iUIytu9UkQR3tLMbORL9sfi/WswiHkA1O3ri9yHW+5dXk18Rd+pluMeDBrPKSwNCvw==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./bg_files/css_yE5QwgZvyhRicEoVbX2MmW6dMN062W8zEzhDjtfclYk.css">
 
     
 <!--[if lte IE 8]>
 <script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
 <![endif]-->
-<script src="./background_files/all.js.загружено" defer="" crossorigin="anonymous"></script>
-<script src="./background_files/v4-shims.js.загружено" defer="" crossorigin="anonymous"></script>
+<script src="./bg_files/all.js.загружено" defer="" crossorigin="anonymous"></script>
+<script src="./bg_files/v4-shims.js.загружено" defer="" crossorigin="anonymous"></script>
 
 	
 	<link rel="apple-touch-icon" sizes="180x180" href="https://lpnu.ua/apple-touch-icon.png">
@@ -418,11 +418,11 @@
 
       
             <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="row">
-<div class="col-xs-4"><a href="http://tsus.lpnu.ua/"><img alt="Логотип Tech Startup School" class="img-responsive" src="./background_files/LPNU_logo_tech-startup-school.png" typeof="foaf:Image"></a></div>
+<div class="col-xs-4"><a href="http://tsus.lpnu.ua/"><img alt="Логотип Tech Startup School" class="img-responsive" src="./bg_files/LPNU_logo_tech-startup-school.png" typeof="foaf:Image"></a></div>
 
-<div class="col-xs-4"><a href="https://techbs.lpnu.ua/"><img alt="Логотип Tech Business School" class="img-responsive" src="./background_files/LPNU_logo_tech-business-school.png" typeof="foaf:Image"></a></div>
+<div class="col-xs-4"><a href="https://techbs.lpnu.ua/"><img alt="Логотип Tech Business School" class="img-responsive" src="./bg_files/LPNU_logo_tech-business-school.png" typeof="foaf:Image"></a></div>
 
-<div class="col-xs-4"><a href="http://tsus.lpnu.ua/sid"><img alt="Логотип наукового парку SID City" class="img-responsive" src="./background_files/LPNU_logo_SID-city-scientific-park.png" typeof="foaf:Image"></a></div>
+<div class="col-xs-4"><a href="http://tsus.lpnu.ua/sid"><img alt="Логотип наукового парку SID City" class="img-responsive" src="./bg_files/LPNU_logo_SID-city-scientific-park.png" typeof="foaf:Image"></a></div>
 </div>
 </div>
       
@@ -446,13 +446,13 @@
       <div class="view-content">
         <div class="views-view-grid horizontal cols-2 clearfix">
             <div class="row">
-                  <div class="col-12 col-sm-6 views-col col-1"><div><span><a href="https://lpnu.ua/news/zvit-rektora-pro-osnovni-dosiahnennia-lvivskoi-politekhniky-u-2025-rotsi-na-konferentsii">  <img src="./background_files/lpfasad.jpg" width="720" height="360" alt="Фасад головного корпусу Львівської політехніки" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 views-col col-1"><div><span><a href="https://lpnu.ua/news/zvit-rektora-pro-osnovni-dosiahnennia-lvivskoi-politekhniky-u-2025-rotsi-na-konferentsii">  <img src="./bg_files/lpfasad.jpg" width="720" height="360" alt="Фасад головного корпусу Львівської політехніки" typeof="Image" class="img-responsive">
 
 
  
 <div class="shadow_featured"></div>
 <h2><span>Звіт ректора про основні досягнення Львівської політехніки у 2025 році на Конференції трудового колективу Університету</span></h2></a></span></div></div>
-                  <div class="col-12 col-sm-6 views-col col-2"><div><span><a href="https://lpnu.ua/news/instytuty-dosiahnennia-plany-motyvatsiia-tematychnyi-nomer-zhurnalu-lvivska-politekhnika">  <img src="./background_files/zh-inst-tt.jpg" width="720" height="360" alt="Заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 views-col col-2"><div><span><a href="https://lpnu.ua/news/instytuty-dosiahnennia-plany-motyvatsiia-tematychnyi-nomer-zhurnalu-lvivska-politekhnika">  <img src="./bg_files/zh-inst-tt.jpg" width="720" height="360" alt="Заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  
@@ -460,13 +460,13 @@
 <h2><span>Інститути – досягнення, плани, мотивація: тематичний номер журналу «Львівська політехніка»</span></h2></a></span></div></div>
               </div>
           <div class="row">
-                  <div class="col-12 col-sm-6 views-col col-1"><div><span><a href="https://lpnu.ua/news/politekhnika-ekskursiina">  <img src="./background_files/zobrazhennyaviber2024-07-1515-03-24-090.jpg" width="720" height="360" alt="Політехніка екскурсійна" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 views-col col-1"><div><span><a href="https://lpnu.ua/news/politekhnika-ekskursiina">  <img src="./bg_files/zobrazhennyaviber2024-07-1515-03-24-090.jpg" width="720" height="360" alt="Політехніка екскурсійна" typeof="Image" class="img-responsive">
 
 
  
 <div class="shadow_featured"></div>
 <h2><span>Політехніка екскурсійна</span></h2></a></span></div></div>
-                  <div class="col-12 col-sm-6 views-col col-2"><div><span><a href="https://lpnu.ua/news/lvivska-politekhnika-u-reitynhakh-zakladiv-vyshchoi-osvity">  <img src="./background_files/lplitart.jpg" width="720" height="360" alt="Фронтон головного корпусу Львівської політехніки" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 views-col col-2"><div><span><a href="https://lpnu.ua/news/lvivska-politekhnika-u-reitynhakh-zakladiv-vyshchoi-osvity">  <img src="./bg_files/lplitart.jpg" width="720" height="360" alt="Фронтон головного корпусу Львівської політехніки" typeof="Image" class="img-responsive">
 
 
  
@@ -503,7 +503,7 @@
       <div class="view-content">
         <div class="views-view-grid horizontal cols-6 clearfix">
             <div class="row">
-                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-1"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/mizhnarodna-naukovo-tekhnichna-konferentsiia-suchasni-problemy-v-radioelektronitsi-ta">  <img src="./background_files/mizhnarodna-naukovo-tekhnichna-konferenciya.jpg" width="345" height="194" alt="заставка до конференції" typeof="Image" class="img-responsive">
+                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-1"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/mizhnarodna-naukovo-tekhnichna-konferentsiia-suchasni-problemy-v-radioelektronitsi-ta">  <img src="./bg_files/mizhnarodna-naukovo-tekhnichna-konferenciya.jpg" width="345" height="194" alt="заставка до конференції" typeof="Image" class="img-responsive">
 
 
 
@@ -511,7 +511,7 @@
  – <time datetime="00Z">сб., 17 жовт., 16:00</time>
 </div>
 <h3>Міжнародна науково-технічна конференція «Сучасні проблеми в радіоелектроніці та інфокомунікаціях» (СПРІК-2026) присвячена 100-річчю Львівського радіоаматорського руху</h3></a></span></div></div>
-                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-2"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/khi-mizhnarodna-naukovo-praktychna-konferentsiia-kvalilohiia-knyhy">  <img src="./background_files/1zastznimok-ekrana-2026-10-09-110502.jpg" width="345" height="159" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-2"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/khi-mizhnarodna-naukovo-praktychna-konferentsiia-kvalilohiia-knyhy">  <img src="./bg_files/1zastznimok-ekrana-2026-10-09-110502.jpg" width="345" height="159" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
 
@@ -519,14 +519,14 @@
  – <time datetime="00Z">пт., 16 жовт., 16:00</time>
 </div>
 <h3>ХІ Міжнародна науково-практична конференція «Квалілогія книги»</h3></a></span></div></div>
-                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-3"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/vii-mizhnarodna-naukovo-praktychna-konferentsiia-advokatura-v-umovakh-suchasnykh-zmin">  <img src="./background_files/1konferenciya-kaf-cpp.jpg" width="345" height="244" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-3"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/vii-mizhnarodna-naukovo-praktychna-konferentsiia-advokatura-v-umovakh-suchasnykh-zmin">  <img src="./bg_files/1konferenciya-kaf-cpp.jpg" width="345" height="244" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
 
 <div class="event_date"><time datetime="00Z">пт., 16 жовт., 10:00</time>
 </div>
 <h3>VІІ Міжнародна науково-практична конференція «Адвокатура в умовах сучасних змін»</h3></a></span></div></div>
-                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-4"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/kruhlyi-stil-filosofy-lvivskoi-politekhniky-do-radianskoi-okupatsii-idei-ta-zdobutky">  <img src="./background_files/z.jpg" width="345" height="211" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-4"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/kruhlyi-stil-filosofy-lvivskoi-politekhniky-do-radianskoi-okupatsii-idei-ta-zdobutky">  <img src="./bg_files/z.jpg" width="345" height="211" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
 
@@ -534,14 +534,14 @@
  – <time datetime="00Z">сб., 17 жовт., 14:00</time>
 </div>
 <h3>Круглий стіл «Філософи Львівської політехніки до радянської окупації: ідеї та здобутки» </h3></a></span></div></div>
-                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-5"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/yaponiia-dlia-ukraintsiv-mova-osvita-mozhlyvosti-ta-mizhnarodne-partnerstvo">  <img src="./background_files/1afisha-vidkritoi-lekcii-pro-yaponiyu.jpg" width="345" height="229" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-5"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/yaponiia-dlia-ukraintsiv-mova-osvita-mozhlyvosti-ta-mizhnarodne-partnerstvo">  <img src="./bg_files/1afisha-vidkritoi-lekcii-pro-yaponiyu.jpg" width="345" height="229" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
 
 <div class="event_date"><time datetime="00Z">вт., 20 жовт., 11:40</time>
 </div>
 <h3>Японія для українців: мова, освіта, можливості та міжнародне партнерство</h3></a></span></div></div>
-                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-6"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/vidkryta-zustrich-z-ekspertamy-id-77635-op-systemy-vidnovliuvanoi-enerhetyky-ta">  <img src="./background_files/nzyao.jpg" width="345" height="203" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-xs-6 col-sm-4 col-lg-2 views-col col-6"><div class="views-field views-field-title"><span class="field-content"><a href="https://lpnu.ua/events/vidkryta-zustrich-z-ekspertamy-id-77635-op-systemy-vidnovliuvanoi-enerhetyky-ta">  <img src="./bg_files/nzyao.jpg" width="345" height="203" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
 
@@ -596,66 +596,66 @@
       <div class="view-content">
         <div class="views-view-grid horizontal cols-4 clearfix">
             <div class="row">
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-1"><div><span><a href="https://lpnu.ua/news/100-richchia-kafedry-orhanichnoi-khimii-lvivskoi-politekhniky-vidznachyly-mizhnarodnoiu"><div class="news_teaser">  <img src="./background_files/zast5j0a1320.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-1"><div><span><a href="https://lpnu.ua/news/100-richchia-kafedry-orhanichnoi-khimii-lvivskoi-politekhniky-vidznachyly-mizhnarodnoiu"><div class="news_teaser">  <img src="./bg_files/zast5j0a1320.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 17:07</span></div>
 <h3>100-річчя кафедри органічної хімії Львівської політехніки відзначили міжнародною конференцією та урочистою академією</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-2"><div><span><a href="https://lpnu.ua/news/rozpochato-reiestratsiiu-uchasnykiv-do-shkoly-eksportera-2026"><div class="news_teaser">  <img src="./background_files/1fbimg1791963915003.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-2"><div><span><a href="https://lpnu.ua/news/rozpochato-reiestratsiiu-uchasnykiv-do-shkoly-eksportera-2026"><div class="news_teaser">  <img src="./bg_files/1fbimg1791963915003.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 16:14</span></div>
 <h3>Розпочато реєстрацію учасників до Школи Експортера 2026</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-3"><div><span><a href="https://lpnu.ua/news/prorektorka-lvivskoi-politekhniky-nataliia-melnykova-vziala-uchast-v-urochystykh-zakhodakh-u"><div class="news_teaser">  <img src="./background_files/1geminigeneratedimageeoaw2ieoaw2ieoaw.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-3"><div><span><a href="https://lpnu.ua/news/prorektorka-lvivskoi-politekhniky-nataliia-melnykova-vziala-uchast-v-urochystykh-zakhodakh-u"><div class="news_teaser">  <img src="./bg_files/1geminigeneratedimageeoaw2ieoaw2ieoaw.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 15:55</span></div>
 <h3>Проректорка Львівської політехніки Наталія Мельникова взяла участь в урочистих заходах у Польщі</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-4"><div><span><a href="https://lpnu.ua/news/predstavnyky-lvivskoi-politekhniky-uchasnyky-vizytu-v-mezhakh-proiektu-agri-biocircular-hub-v"><div class="news_teaser">  <img src="./background_files/17.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-4"><div><span><a href="https://lpnu.ua/news/predstavnyky-lvivskoi-politekhniky-uchasnyky-vizytu-v-mezhakh-proiektu-agri-biocircular-hub-v"><div class="news_teaser">  <img src="./bg_files/17.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 15:29</span></div>
 <h3>Представники Львівської політехніки — учасники візиту в межах проєкту AGRI-BIOCIRCULAR-HUB в Іспанії</h3></a></span></div></div>
               </div>
           <div class="row">
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-1"><div><span><a href="https://lpnu.ua/news/startuvav-nabir-dlia-molodi-na-prohramu-stazhuvannia-akademiia-pershykh-mozhlyvostei-vid"><div class="news_teaser">  <img src="./background_files/75140422-kopiya.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-1"><div><span><a href="https://lpnu.ua/news/startuvav-nabir-dlia-molodi-na-prohramu-stazhuvannia-akademiia-pershykh-mozhlyvostei-vid"><div class="news_teaser">  <img src="./bg_files/75140422-kopiya.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 14:21</span></div>
 <h3>Стартував набір для молоді на програму стажування «Академія перших можливостей» від Львівської ОДА</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-2"><div><span><a href="https://lpnu.ua/events/8-ma-mizhnarodna-naukovo-praktychna-konferentsiia-suchasnyi-konstytutsionalizm-ta"><div class="news_teaser">  <img src="./background_files/1znimok-ekrana-2026-10-15-1242170.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-2"><div><span><a href="https://lpnu.ua/events/8-ma-mizhnarodna-naukovo-praktychna-konferentsiia-suchasnyi-konstytutsionalizm-ta"><div class="news_teaser">  <img src="./bg_files/1znimok-ekrana-2026-10-15-1242170.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 12:56</span></div>
 <h3>8-ма Міжнародна науково-практична конференція «Сучасний конституціоналізм та євроінтеграційні процеси в Україні»</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-3"><div><span><a href="https://lpnu.ua/news/studenty-kafedry-pz-sered-peremozhtsiv-talent-boost-future-makers"><div class="news_teaser">  <img src="./background_files/11zobrazhennyaviber2026-09-2918-51-17.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-3"><div><span><a href="https://lpnu.ua/news/studenty-kafedry-pz-sered-peremozhtsiv-talent-boost-future-makers"><div class="news_teaser">  <img src="./bg_files/11zobrazhennyaviber2026-09-2918-51-17.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 12:24</span></div>
 <h3>Студенти кафедри ПЗ — серед переможців TALENT BOOST: FUTURE MAKERS</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-4"><div><span><a href="https://lpnu.ua/news/videoproiekt-istoriia-liudy-politekhnika-pershe-video-khrystyna-burshtynska"><div class="news_teaser">  <img src="./background_files/1zast1.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-4"><div><span><a href="https://lpnu.ua/news/videoproiekt-istoriia-liudy-politekhnika-pershe-video-khrystyna-burshtynska"><div class="news_teaser">  <img src="./bg_files/1zast1.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 10:35</span></div>
 <h3>Відеопроєкт «Історія. Люди. Політехніка»: перше відео — Христина Бурштинська</h3></a></span></div></div>
               </div>
           <div class="row">
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-1"><div><span><a href="https://lpnu.ua/news/u-lvivskii-politekhnitsi-hovoryly-pro-inkliuzyvnist-dostupnist-osvity-ta-dosvid-studentiv-z"><div class="news_teaser">  <img src="./background_files/1pfcnimg9944.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-1"><div><span><a href="https://lpnu.ua/news/u-lvivskii-politekhnitsi-hovoryly-pro-inkliuzyvnist-dostupnist-osvity-ta-dosvid-studentiv-z"><div class="news_teaser">  <img src="./bg_files/1pfcnimg9944.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 09:53</span></div>
 <h3>У Львівській політехніці говорили про інклюзивність, доступність освіти та досвід студентів з інвалідністю</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-2"><div><span><a href="https://lpnu.ua/news/proiektnyi-ofis-proviv-informatsiinu-sesiiu-dlia-vykladachiv-prysviachenu-mozhlyvostiam"><div class="news_teaser">  <img src="./background_files/inmg3678-1.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-2"><div><span><a href="https://lpnu.ua/news/proiektnyi-ofis-proviv-informatsiinu-sesiiu-dlia-vykladachiv-prysviachenu-mozhlyvostiam"><div class="news_teaser">  <img src="./bg_files/inmg3678-1.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>15 жовт. 2026, 09:12</span></div>
 <h3>Проєктний офіс провів інформаційну сесію для викладачів, присвячену можливостям Erasmus+ в межах ErasmusDays 2026</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-3"><div><span><a href="https://lpnu.ua/news/predstavnytsi-lvivskoi-politekhniky-sered-spikerok-zakhodu-yurfem-open-space-2026"><div class="news_teaser">  <img src="./background_files/nimage-2026-10-14-141822.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-3"><div><span><a href="https://lpnu.ua/news/predstavnytsi-lvivskoi-politekhniky-sered-spikerok-zakhodu-yurfem-open-space-2026"><div class="news_teaser">  <img src="./bg_files/nimage-2026-10-14-141822.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>14 жовт. 2026, 16:56</span></div>
 <h3>Представниці Львівської політехніки серед спікерок заходу ЮрФем Open Space 2026</h3></a></span></div></div>
-                  <div class="col-12 col-sm-6 col-md-3 views-col col-4"><div><span><a href="https://lpnu.ua/news/kiberhihiiena-ta-pastky-tsyfrovoho-svitu-ntb-zaproshuie-na-seminar-pro-bezpeku-v-interneti"><div class="news_teaser">  <img src="./background_files/kibergigiena-ta-pastki-cifrovogo-svitu.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
+                  <div class="col-12 col-sm-6 col-md-3 views-col col-4"><div><span><a href="https://lpnu.ua/news/kiberhihiiena-ta-pastky-tsyfrovoho-svitu-ntb-zaproshuie-na-seminar-pro-bezpeku-v-interneti"><div class="news_teaser">  <img src="./bg_files/kibergigiena-ta-pastki-cifrovogo-svitu.jpg" width="720" height="405" alt="заставка до матеріалу" typeof="Image" class="img-responsive">
 
 
  <span>14 жовт. 2026, 16:22</span></div>
@@ -989,22 +989,22 @@
 <p><a href="https://lpnu.ua/">Офіційний вебсайт Національного університету «Львівська політехніка»</a>.</p>
 <p> © Національний університет «Львівська політехніка», 2005-2026.</p>
 <div>
-<div class="footer-icons"><a href="https://lpnu.ua/systema-upravlinnia-iakistiu"><img style="height:65px; width:52px; float:left; margin-right:10px;" alt="Логотип компанії Bureau Veritas" src="./background_files/veritas-logo.png"> <p>Сертифікат якості (стандарт ISO 9001:2015)</p></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/systema-upravlinnia-iakistiu"><img style="height:65px; width:52px; float:left; margin-right:10px;" alt="Логотип компанії Bureau Veritas" src="./bg_files/veritas-logo.png"> <p>Сертифікат якості (стандарт ISO 9001:2015)</p></a></div>
 
 
-<div class="footer-ic"><a href="https://lpnu.ua/projects?field_full_title_value=&amp;field_project_type_value=2" target="_blank"><img style="max-width:220px;" alt="With the support of the Erasmus+ Programme of the European Union" src="./background_files/erasmuspluslogonewres.png"></a></div>
-<div class="footer-icons"><a href="https://mastis.competence.in.ua/" target="_blank"><img alt="MASTIS logo" src="./background_files/matis1.jpg"></a></div>
+<div class="footer-ic"><a href="https://lpnu.ua/projects?field_full_title_value=&amp;field_project_type_value=2" target="_blank"><img style="max-width:220px;" alt="With the support of the Erasmus+ Programme of the European Union" src="./bg_files/erasmuspluslogonewres.png"></a></div>
+<div class="footer-icons"><a href="https://mastis.competence.in.ua/" target="_blank"><img alt="MASTIS logo" src="./bg_files/matis1.jpg"></a></div>
 
-<div class="footer-icons"><a href="https://lpnu.ua/dochub" target="_blank"><img alt="DocHub logo" src="./background_files/2dochub.jpg"></a></div>
-<div class="footer-icons"><a href="https://lpnu.ua/eduqas/" target="_blank"><img alt="EduQAS logo" src="./background_files/eduqas_logo_print-1.jpg"></a></div>
-<div class="footer-icons"><a href="http://smalog-2017.uniroma2.it/uk/" target="_blank"><img alt="SMALOG logo" src="./background_files/smalog.jpg"></a></div>
-<div class="footer-icons"><a href="https://lpnu.ua/optima" target="_blank"><img alt="OPTIMA logo" src="./background_files/unnamed.png" width="100px" height="51px"></a></div>
-<div class="footer-icons"><a href="https://lpnu.ua/proment" target="_blank"><img alt="PROMENT logo" src="./background_files/pro-1.png" width="100px" height="51px"></a></div>
-<div class="footer-icons"><a href="https://lpnu.ua/open4ua" target="_blank"><img alt="Open4UA logo" src="./background_files/open4ua3.png" width="100px" height="auto"></a></div>
-<div class="footer-icons"><a href="https://lpnu.ua/gpsvet" target="_blank"><img alt="GPS@VET logo" src="./background_files/unnamed-1.png" width="100px" height="auto"></a></div>
-<div class="footer-icons"><a href="https://lpnu.ua/e-res" target="_blank"><img alt="E-res logo" src="./background_files/e-res.png" width="100px" height="auto"></a></div>
-<div class="footer-icons"><a href="https://lpnu.ua/afid" target="_blank"><img alt="AFID logo" src="./background_files/afidlogocut.png" width="100px" height="auto"></a></div>
-<div class="footer-icons"><a href="https://unitwin.lpnu.ua/" target="_blank"><img alt="unitwin logo" src="./background_files/unitwinlogobgr.png" width="100px" height="auto"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/dochub" target="_blank"><img alt="DocHub logo" src="./bg_files/2dochub.jpg"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/eduqas/" target="_blank"><img alt="EduQAS logo" src="./bg_files/eduqas_logo_print-1.jpg"></a></div>
+<div class="footer-icons"><a href="http://smalog-2017.uniroma2.it/uk/" target="_blank"><img alt="SMALOG logo" src="./bg_files/smalog.jpg"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/optima" target="_blank"><img alt="OPTIMA logo" src="./bg_files/unnamed.png" width="100px" height="51px"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/proment" target="_blank"><img alt="PROMENT logo" src="./bg_files/pro-1.png" width="100px" height="51px"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/open4ua" target="_blank"><img alt="Open4UA logo" src="./bg_files/open4ua3.png" width="100px" height="auto"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/gpsvet" target="_blank"><img alt="GPS@VET logo" src="./bg_files/unnamed-1.png" width="100px" height="auto"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/e-res" target="_blank"><img alt="E-res logo" src="./bg_files/e-res.png" width="100px" height="auto"></a></div>
+<div class="footer-icons"><a href="https://lpnu.ua/afid" target="_blank"><img alt="AFID logo" src="./bg_files/afidlogocut.png" width="100px" height="auto"></a></div>
+<div class="footer-icons"><a href="https://unitwin.lpnu.ua/" target="_blank"><img alt="unitwin logo" src="./bg_files/unitwinlogobgr.png" width="100px" height="auto"></a></div>
 
 </div>
 </div>
@@ -1021,14 +1021,14 @@
 
     
     <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"uk"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"663e86f2d25ad309d47a7ca4cd7857cbff07aa6814338c23333fa9cf51a03cf7"}}</script>
-<script src="./background_files/js_1_lcqaWDEdAwcmnLGThmaHTFSdszarQpNCuDoUgh5bM.js.загружено"></script>
-<script src="./background_files/bootstrap.min.js.загружено" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
-<script src="./background_files/js_2mdHdcgoFR3myd9EcJOZnmziP5lcIEnQzed283Y1d2c.js.загружено"></script>
+<script src="./bg_files/js_1_lcqaWDEdAwcmnLGThmaHTFSdszarQpNCuDoUgh5bM.js.загружено"></script>
+<script src="./bg_files/bootstrap.min.js.загружено" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+<script src="./bg_files/js_2mdHdcgoFR3myd9EcJOZnmziP5lcIEnQzed283Y1d2c.js.загружено"></script>
 
     
     
     
-  <script type="module" src="./background_files/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;0ac0d520a4c84d4f9135012842149e9d&quot;,&quot;spa&quot;:2}" crossorigin="anonymous" style="display: none !important;"></script>
+  <script type="module" src="./bg_files/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;0ac0d520a4c84d4f9135012842149e9d&quot;,&quot;spa&quot;:2}" crossorigin="anonymous" style="display: none !important;"></script>
 
 
 </body></html>
