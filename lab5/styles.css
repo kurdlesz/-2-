@@ -1,102 +1,36 @@
-
-*, *::before, *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+/* Базові налаштування шрифтів сторінки */
 body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Властивості CSS Fonts */
 }
-#hero {
-  font-weight: normal;
-  position: relative;
-  min-height: 420px;
-  display: flex;
-  align-items: flex-end;
-  padding: 35px 0;
-  background: #1d2159 url('../photo/background.jpg') no-repeat center top;
-  background-size: cover;
-  color: #ffffff;
+
+/* Налаштування блоку hero_container (Блочна модель та Кольори) */
+header#hero_container {
+    width: 100%;                  /* CSS Box Model: Ширина */
+    height: 400px;                /* CSS Box Model: Висота */
+    padding: 40px 20px;           /* CSS Box Model: Внутрішні відступи */
+    margin: 0 auto;               /* CSS Box Model: Зовнішні відступи */
+    box-sizing: border-box;       /* Врахування відступів у загальну ширину */
+    
+    background-color: #1a365d;    /* CSS Color: Колір фону (темно-синій) */
+    color: #ffffff;               /* CSS Color: Колір тексту */
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
-#hero .shadow {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(180deg, rgba(1, 105, 252, 0) 25%, rgba(0, 38, 255, 0.85) 100%);
-  z-index: 1;
+
+/* Налаштування шрифтів вкладених елементів */
+header#hero_container h1 {
+    font-size: 2.5rem;            /* CSS Fonts: Розмір шрифту */
+    font-weight: bold;            /* CSS Fonts: Товщина шрифту */
+    margin-bottom: 15px;          /* CSS Box Model */
 }
-#hero .container {
-  position: relative;
-  z-index: 2;
-  max-width: 1200px;
-  margin: 0 auto;
-  width: 100%;
-  padding: 0 30px;
-}
-#hero h2 a {
-  color: #ffffff;
-  font-size: 26px;
-  text-decoration: none;
-  font-weight: bold;
-  line-height: 1.35;
-  display: inline-block;
-}
-#hero h2 a:hover {
-  text-decoration: underline;
-}
-#block-lpnushortcutstop4 {
-  background-color: #272c7d;
-  width: 100%;
-}
-.shortcuts-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  max-width: 1250px;
-  margin: 0 auto;
-}
-.shortcut-item {
-  flex: 1 1 240px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 24px 15px;
-  color: #ffffff;
-  text-decoration: none;
-  border-right: 1px solid rgba(255, 255, 255, 0.1);
-  transition: background-color 0.2s ease;
-}
-.shortcut-item:last-child {
-  border-right: none;
-}
-.shortcut-item:hover {
-  background-color: rgba(255, 255, 255, 0.15);
-}
-.shortcut-content {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 14px;
-  text-align: left;
-  font-size: 15px;
-  font-weight: 500;
-  color: #ffffff;
-  width: 100%;
-  max-width: 270px;
-}
-.shortcut-content svg {
-  fill: #00b0f0 !important;
-  color: #00b0f0 !important;
-  width: 24px !important;
-  height: 24px !important;
-  max-width: 24px !important;
-  max-height: 24px !important;
-  flex-shrink: 0;
-  display: inline-block;
-}
-@media (max-width: 768px) {
-  .shortcut-item {
-    flex: 1 1 50%;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-  }
+
+header#hero_container p {
+    font-size: 1.2rem;            /* CSS Fonts */
+    font-style: italic;           /* CSS Fonts: Стиль шрифту */
+    opacity: 0.9;                 /* CSS Color: Прозорість */
 }
