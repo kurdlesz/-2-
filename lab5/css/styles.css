@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: flex-end;
   padding: 35px 0;
-  background: #1d2159 url('../photo/background.jpg') no-repeat center top;
+  background: #1d2159 url('../photo/bg.jpg') no-repeat center top;
   background-size: cover;
   color: #ffffff;
 }
