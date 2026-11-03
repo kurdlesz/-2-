@@ -1,4 +1,4 @@
-/* Reset and Base Styles */
+
 body, h1, h2, h3, p, ul, li, figure, figcaption {
     margin: 10px;
     padding: 0;
@@ -6,7 +6,6 @@ body, h1, h2, h3, p, ul, li, figure, figcaption {
     font-family: 'Arial', sans-serif;
 }
 
-/* Body and Layout */
 body {
     margin: 0;
     padding: 0;
@@ -51,7 +50,6 @@ nav ul li a:hover {
     color: #005A9C;
 }
 
-/* Section and Articles */
 section {
     padding: 20px;
     margin: 20px auto;
@@ -61,7 +59,6 @@ section {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-/* Gallery Section */
 #photo-gallery ul {
     display: flex;
     flex-wrap: wrap;
@@ -92,7 +89,6 @@ section {
     font-size: 15px;
 }
 
-/* Form Styles */
 form {
     max-width: 600px;
     margin: 20px auto;
@@ -133,7 +129,6 @@ form button:hover {
     background: #004080;
 }
 
-/* Footer */
 footer {
     background: #333;
     color: #fff;
