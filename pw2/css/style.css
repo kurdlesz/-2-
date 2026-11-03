@@ -1,0 +1,23 @@
+/* Кнопка Log In */
+.btn-login {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;               /* Висота з Figma */
+  padding: 0 16px;            /* Внутрішній відступ зліва/справа */
+  background-color: #3b82f6;  /* Синій колір фону кнопки */
+  color: #ffffff;             /* Білий колір тексту */
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;            /* Розмір шрифту з panel Typography */
+  font-weight: 400;           /* Regular */
+  border-radius: 6px;         /* Corner radius з panel Appearance */
+  text-decoration: none;
+  line-height: 1;
+}
+
+/* Контейнер навігації шапки */
+.top-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;                  /* Відстань між Sign Up та Log In */
+}
